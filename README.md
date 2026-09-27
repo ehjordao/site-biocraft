@@ -33,7 +33,7 @@ site projeto Future Fast Fiap School 2026
         <a href="#inicio" class="logo">
 
             <div class="logo-icon">
-                🌱
+                
             </div>
 
             <span>BioCraft</span>
@@ -216,7 +216,7 @@ site projeto Future Fast Fiap School 2026
             <div class="card-top">
 
                 <div class="card-icon">
-                    🌱
+                    
                 </div>
 
                 <span class="card-number">
@@ -251,7 +251,7 @@ site projeto Future Fast Fiap School 2026
             <div class="card-top">
 
                 <div class="card-icon">
-                    📡
+                    
                 </div>
 
                 <span class="card-number">
@@ -286,7 +286,7 @@ site projeto Future Fast Fiap School 2026
             <div class="card-top">
 
                 <div class="card-icon">
-                    ⚡
+                    
                 </div>
 
                 <span class="card-number">
@@ -321,7 +321,7 @@ site projeto Future Fast Fiap School 2026
             <div class="card-top">
 
                 <div class="card-icon">
-                    🌎
+                    
                 </div>
 
                 <span class="card-number">
@@ -358,7 +358,7 @@ site projeto Future Fast Fiap School 2026
         <div class="technology-highlight">
 
             <span class="highlight-icon">
-                ✦
+                
             </span>
 
             <div>
@@ -1222,7 +1222,7 @@ site projeto Future Fast Fiap School 2026
                 >
 
                     <span class="choice-icon">
-                        🏭
+                        
                     </span>
 
                     <div>
@@ -1254,7 +1254,7 @@ site projeto Future Fast Fiap School 2026
                 >
 
                     <span class="choice-icon">
-                        🌱
+                        
                     </span>
 
                     <div>
@@ -1286,7 +1286,7 @@ site projeto Future Fast Fiap School 2026
                 >
 
                     <span class="choice-icon">
-                        🌳
+                        
                     </span>
 
                     <div>
@@ -1318,7 +1318,7 @@ site projeto Future Fast Fiap School 2026
                 >
 
                     <span class="choice-icon">
-                        ⚡
+                        
                     </span>
 
                     <div>
@@ -1391,11 +1391,11 @@ site projeto Future Fast Fiap School 2026
 
 
                     <div class="contact-item">
-                        📧 contato@biocraft.com
+                         contato@biocraft.com
                     </div>
 
                     <div class="contact-item">
-                        📍 São Paulo, Brasil
+                         São Paulo, Brasil
                     </div>
 
                 </div>
